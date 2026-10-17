@@ -1,0 +1,281 @@
+[
+  {
+    "id": "bagalkote",
+    "name_en": "Bagalkote",
+    "name_kn": "ಬಾಗಲಕೋಟೆ",
+    "cluster": "6. Chalukya Heritage & Deccan Sultanate (North)",
+    "hq": "Bagalkote",
+    "lat": 16.18,
+    "lng": 75.69
+  },
+  {
+    "id": "ballari",
+    "name_en": "Ballari",
+    "name_kn": "ಬಳ್ಳಾರಿ",
+    "cluster": "8. Hampi & Tungabhadra Region",
+    "hq": "Ballari",
+    "lat": 15.14,
+    "lng": 76.92
+  },
+  {
+    "id": "belagavi",
+    "name_en": "Belagavi",
+    "name_kn": "ಬೆಳಗಾವಿ",
+    "cluster": "5. Mumbai-Karnataka (North-West)",
+    "hq": "Belagavi",
+    "lat": 15.85,
+    "lng": 74.51
+  },
+  {
+    "id": "bengaluru-rural",
+    "name_en": "Bengaluru Rural",
+    "name_kn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Bengaluru",
+    "lat": 13.25,
+    "lng": 77.71
+  },
+  {
+    "id": "bengaluru-urban",
+    "name_en": "Bengaluru Urban",
+    "name_kn": "ಬೆಂಗಳೂರು ನಗರ",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Bengaluru",
+    "lat": 12.97,
+    "lng": 77.59
+  },
+  {
+    "id": "bidar",
+    "name_en": "Bidar",
+    "name_kn": "ಬೀದರ್",
+    "cluster": "7. Kalyana-Karnataka (North-East)",
+    "hq": "Bidar",
+    "lat": 17.92,
+    "lng": 77.52
+  },
+  {
+    "id": "chamarajanagar",
+    "name_en": "Chamarajanagar",
+    "name_kn": "ಚಾಮರಾಜನಗರ",
+    "cluster": "2. Old Mysuru & Hoysala Heritage",
+    "hq": "Chamarajanagar",
+    "lat": 11.92,
+    "lng": 76.94
+  },
+  {
+    "id": "chikkaballapura",
+    "name_en": "Chikkaballapura",
+    "name_kn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Chikkaballapura",
+    "lat": 13.43,
+    "lng": 77.72
+  },
+  {
+    "id": "chikkamagaluru",
+    "name_en": "Chikkamagaluru",
+    "name_kn": "ಚಿಕ್ಕಮಗಳೂರು",
+    "cluster": "3. Malnad & Coffee Hills",
+    "hq": "Chikkamagaluru",
+    "lat": 13.32,
+    "lng": 75.77
+  },
+  {
+    "id": "chitradurga",
+    "name_en": "Chitradurga",
+    "name_kn": "ಚಿತ್ರದುರ್ಗ",
+    "cluster": "9. Central Karnataka",
+    "hq": "Chitradurga",
+    "lat": 14.22,
+    "lng": 76.40
+  },
+  {
+    "id": "dakshina-kannada",
+    "name_en": "Dakshina Kannada",
+    "name_kn": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+    "cluster": "4. Coastal Karnataka",
+    "hq": "Mangaluru",
+    "lat": 12.87,
+    "lng": 74.88
+  },
+  {
+    "id": "davanagere",
+    "name_en": "Davanagere",
+    "name_kn": "ದಾವಣಗೆರೆ",
+    "cluster": "9. Central Karnataka",
+    "hq": "Davanagere",
+    "lat": 14.46,
+    "lng": 75.92
+  },
+  {
+    "id": "dharwad",
+    "name_en": "Dharwad",
+    "name_kn": "ಧಾರವಾಡ",
+    "cluster": "5. Mumbai-Karnataka (North-West)",
+    "hq": "Dharwad",
+    "lat": 15.45,
+    "lng": 75.01
+  },
+  {
+    "id": "gadag",
+    "name_en": "Gadag",
+    "name_kn": "ಗದಗ",
+    "cluster": "5. Mumbai-Karnataka (North-West)",
+    "hq": "Gadag",
+    "lat": 15.42,
+    "lng": 75.62
+  },
+  {
+    "id": "hassan",
+    "name_en": "Hassan",
+    "name_kn": "ಹಾಸನ",
+    "cluster": "2. Old Mysuru & Hoysala Heritage",
+    "hq": "Hassan",
+    "lat": 13.00,
+    "lng": 76.10
+  },
+  {
+    "id": "haveri",
+    "name_en": "Haveri",
+    "name_kn": "ಹಾವೇರಿ",
+    "cluster": "5. Mumbai-Karnataka (North-West)",
+    "hq": "Haveri",
+    "lat": 14.80,
+    "lng": 75.40
+  },
+  {
+    "id": "kalaburagi",
+    "name_en": "Kalaburagi",
+    "name_kn": "ಕಲಬುರಗಿ",
+    "cluster": "7. Kalyana-Karnataka (North-East)",
+    "hq": "Kalaburagi",
+    "lat": 17.33,
+    "lng": 76.83
+  },
+  {
+    "id": "kodagu",
+    "name_en": "Kodagu",
+    "name_kn": "ಕೊಡಗು",
+    "cluster": "3. Malnad & Coffee Hills",
+    "hq": "Madikeri",
+    "lat": 12.42,
+    "lng": 75.74
+  },
+  {
+    "id": "kolar",
+    "name_en": "Kolar",
+    "name_kn": "ಕೋಲಾರ",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Kolar",
+    "lat": 13.13,
+    "lng": 78.13
+  },
+  {
+    "id": "koppal",
+    "name_en": "Koppal",
+    "name_kn": "ಕೊಪ್ಪಳ",
+    "cluster": "8. Hampi & Tungabhadra Region",
+    "hq": "Koppal",
+    "lat": 15.35,
+    "lng": 76.15
+  },
+  {
+    "id": "mandya",
+    "name_en": "Mandya",
+    "name_kn": "ಮಂಡ್ಯ",
+    "cluster": "2. Old Mysuru & Hoysala Heritage",
+    "hq": "Mandya",
+    "lat": 12.52,
+    "lng": 76.90
+  },
+  {
+    "id": "mysuru",
+    "name_en": "Mysuru",
+    "name_kn": "ಮೈಸೂರು",
+    "cluster": "2. Old Mysuru & Hoysala Heritage",
+    "hq": "Mysuru",
+    "lat": 12.30,
+    "lng": 76.65
+  },
+  {
+    "id": "raichur",
+    "name_en": "Raichur",
+    "name_kn": "ರಾಯಚೂರು",
+    "cluster": "7. Kalyana-Karnataka (North-East)",
+    "hq": "Raichur",
+    "lat": 16.20,
+    "lng": 77.36
+  },
+  {
+    "id": "ramanagara",
+    "name_en": "Ramanagara",
+    "name_kn": "ರಾಮನಗರ",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Ramanagara",
+    "lat": 12.72,
+    "lng": 77.28
+  },
+  {
+    "id": "shivamogga",
+    "name_en": "Shivamogga",
+    "name_kn": "ಶಿವಮೊಗ್ಗ",
+    "cluster": "3. Malnad & Coffee Hills",
+    "hq": "Shivamogga",
+    "lat": 13.93,
+    "lng": 75.57
+  },
+  {
+    "id": "tumakuru",
+    "name_en": "Tumakuru",
+    "name_kn": "ತುಮಕೂರು",
+    "cluster": "1. Bengaluru Belt",
+    "hq": "Tumakuru",
+    "lat": 13.34,
+    "lng": 77.10
+  },
+  {
+    "id": "udupi",
+    "name_en": "Udupi",
+    "name_kn": "ಉಡುಪಿ",
+    "cluster": "4. Coastal Karnataka",
+    "hq": "Udupi",
+    "lat": 13.34,
+    "lng": 74.74
+  },
+  {
+    "id": "uttara-kannada",
+    "name_en": "Uttara Kannada",
+    "name_kn": "ಉತ್ತರ ಕನ್ನಡ",
+    "cluster": "4. Coastal Karnataka",
+    "hq": "Karwar",
+    "lat": 14.80,
+    "lng": 74.13
+  },
+  {
+    "id": "vijayanagara",
+    "name_en": "Vijayanagara",
+    "name_kn": "ವಿಜಯನಗರ",
+    "cluster": "8. Hampi & Tungabhadra Region",
+    "hq": "Hosapete",
+    "lat": 15.27,
+    "lng": 76.38
+  },
+  {
+    "id": "vijayapura",
+    "name_en": "Vijayapura",
+    "name_kn": "ವಿಜಯಪುರ",
+    "cluster": "6. Chalukya Heritage & Deccan Sultanate (North)",
+    "hq": "Vijayapura",
+    "lat": 16.83,
+    "lng": 75.71
+  },
+  {
+    "id": "yadgir",
+    "name_en": "Yadgir",
+    "name_kn": "ಯಾದಗಿರಿ",
+    "cluster": "7. Kalyana-Karnataka (North-East)",
+    "hq": "Yadgir",
+    "lat": 16.77,
+    "lng": 77.14
+  }
+]
