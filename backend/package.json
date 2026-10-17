@@ -1,0 +1,28 @@
+{
+  "name": "namma-trip-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Namma Trip - AI Travel Planner for Karnataka",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "karnataka",
+    "travel",
+    "ai",
+    "kannada"
+  ],
+  "author": "Namma Trip Team",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "@supabase/supabase-js": "^2.49.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "zod": "^3.24.2"
+  }
+}
