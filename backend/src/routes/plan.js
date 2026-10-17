@@ -39,10 +39,17 @@ router.post('/', async (req, res) => {
   }
 });
 
-// POST /api/plan/regenerate-day - Regenerate a specific day
-router.post('/regenerate-day', async (req, res) => {
+// POST /api/plan/regenerate-day or /api/plan/:id/regenerate-day - Regenerate a specific day
+const handleRegenerateDay = async (req, res) => {
   try {
-    const { plan, dayNumber, language = 'kn' } = req.body;
+    let { plan, dayNumber, language = 'kn' } = req.body;
+    const planId = req.params.id;
+
+    // If plan was not sent in body but id is provided, fetch from db
+    if (!plan && planId && planId !== 'regenerate-day') {
+      plan = db.trips.getById(planId);
+    }
+
     if (!plan || !dayNumber) {
       return res.status(400).json({ success: false, error: 'Current plan and dayNumber are required' });
     }
@@ -53,7 +60,10 @@ router.post('/regenerate-day', async (req, res) => {
     console.error('Regenerate day error:', err);
     res.status(500).json({ success: false, error: err.message });
   }
-});
+};
+
+router.post('/regenerate-day', handleRegenerateDay);
+router.post('/:id/regenerate-day', handleRegenerateDay);
 
 // POST /api/plan/save - Save trip
 router.post('/save', (req, res) => {

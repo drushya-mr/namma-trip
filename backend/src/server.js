@@ -82,6 +82,15 @@ app.use('/api/profile', profileRouter);
 app.use('/api/notifications', notificationsRouter);
 app.use('/api/report', reportRouter);
 
+// Answer vote route alias as specified in requirements (POST /api/answers/:id/vote)
+app.post('/api/answers/:id/vote', (req, res) => {
+  const db = require('./data/db');
+  const { userId = 'demo-user-id', vote = 1 } = req.body;
+  const result = db.questions.voteAnswer(req.params.id, userId, vote);
+  if (!result) return res.status(404).json({ success: false, error: 'Answer not found' });
+  res.json({ success: true, ...result });
+});
+
 // 404 handler
 app.use((req, res) => {
   res.status(404).json({ success: false, error: `Route not found: ${req.method} ${req.url}` });
@@ -96,7 +105,7 @@ app.use((err, req, res, next) => {
   });
 });
 
-if (process.env.NODE_ENV !== 'test') {
+if (require.main === module) {
   app.listen(env.PORT, () => {
     console.log(`🚀 Namma Trip Backend running on port ${env.PORT}`);
     console.log(`📍 Places dataset: 84 places, covering all 31 districts of Karnataka`);
