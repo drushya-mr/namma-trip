@@ -1,0 +1,506 @@
+{
+  "lalbagh-botanical-garden": {
+    "name_kn": "ಲಾಲ್‍ಬಾಗ್ ಸಸ್ಯಶಾಸ್ತ್ರೀಯ ಉದ್ಯಾನ",
+    "description_kn": "ಬೆಂಗಳೂರಿನ ಪ್ರಸಿದ್ಧ ಸಸ್ಯಶಾಸ್ತ್ರೀಯ ಉದ್ಯಾನವನ, ಗಾಜಿನ ಮನೆ ಹಾಗೂ ಪುಷ್ಪ ಪ್ರದರ್ಶನಕ್ಕೆ ಖ್ಯಾತಿ ಪಡೆದಿದೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "bangalore-palace": {
+    "name_kn": "ಬೆಂಗಳೂರು ಅರಮನೆ",
+    "description_kn": "ಟ್ಯೂಡರ್ ವಾಸ್ತುಶಿಲ್ಪ ಶೈಲಿಯಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಭವ್ಯ ಅರಮನೆ, ರಾಜಮನೆತನದ ಇತಿಹಾಸವನ್ನು ಬಿಂಬಿಸುತ್ತದೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "devanahalli-fort": {
+    "name_kn": "ದೇವನಹಳ್ಳಿ ಕೋಟೆ",
+    "description_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಜನ್ಮಸ್ಥಳವಾಗಿರುವ ಐತಿಹಾಸಿಕ ಕಲ್ಲಿನ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "ghati-subramanya-temple": {
+    "name_kn": "ಘಾಟಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿ ದೇವಾಲಯ",
+    "description_kn": "ಸುಬ್ರಹ್ಮಣ್ಯ ಹಾಗೂ ನರಸಿಂಹ ಸ್ವಾಮಿಯ ಒಂದೇ ಶಿಲೆಯ ಅಪರೂಪದ ಪುಣ್ಯಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "savandurga-hill": {
+    "name_kn": "ಸಾವನದುರ್ಗ ಬೆಟ್ಟ",
+    "description_kn": "ಏಷ್ಯಾದ ಅತಿ ದೊಡ್ಡ ಏಕಶಿಲಾ ಬೆಟ್ಟಗಳಲ್ಲಿ ಒಂದಾಗಿದ್ದು, ಟ್ರೆಕ್ಕಿಂಗ್ ಪ್ರಿಯರ ಮೆಚ್ಚಿನ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "ramadevara-betta": {
+    "name_kn": "ರಾಮದೇವರ ಬೆಟ್ಟ",
+    "description_kn": "ರಮಾನಗರದ ಸುಂದರ ಬೆಟ್ಟ, ಪ್ರಸಿದ್ಧ ರಣಹದ್ದು ಅಭಯಾರಣ್ಯ ಹಾಗೂ ಚಲನಚಿತ್ರ ಚಿತ್ರೀಕರಣದ ಸ್ಥಳ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "nandi-hills": {
+    "name_kn": "ನಂದಿ ಬೆಟ್ಟ",
+    "description_kn": "ಬೆಂಗಳೂರಿನ ಸಮೀಪದ ಅತಿ ಜನಪ್ರಿಯ ಗಿರಿಧಾಮ, ಮೋಡಗಳ ನಡುವಿನ ಸೂರ್ಯೋದಯಕ್ಕೆ ಪ್ರಸಿದ್ಧ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "skandagiri": {
+    "name_kn": "ಸ್ಕಂದಗಿರಿ",
+    "description_kn": "ರಾತ್ರಿ ಟ್ರೆಕ್ಕಿಂಗ್ ಮತ್ತು ಮೋಡಗಳ ಮೇಲಿನ ಸೂರ್ಯೋದಯ ವೀಕ್ಷಣೆಗೆ ಖ್ಯಾತವಾದ ಶಿಖರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "antaragange-hills": {
+    "name_kn": "ಅಂತರಗಂಗೆ ಬೆಟ್ಟ",
+    "description_kn": "ಬಂಡೆಗಲ್ಲುಗಳ ಗುಹೆಗಳು ಹಾಗೂ ನಿರಂತರ ಹರಿಯುವ ನೈಸರ್ಗಿಕ ನೀರಿನ ಚಿಲುಮೆಗೆ ಹೆಸರುವಾಸಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "kotilingeshwara-temple": {
+    "name_kn": "ಕೋಟಿಲಿಂಗೇಶ್ವರ ದೇವಾಲಯ",
+    "description_kn": "ಕೋಟಿ ಶಿವಲಿಂಗಗಳ ಪ್ರತಿಷ್ಠಾಪನೆ ಹಾಗೂ ಬೃಹತ್ ಶಿವಲಿಂಗವಿರುವ ಧಾರ್ಮಿಕ ಕೇಂದ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "devarayanadurga": {
+    "name_kn": "ದೇವರಾಯನದುರ್ಗ",
+    "description_kn": "ಯೋಗ ನರಸಿಂಹ ಮತ್ತು ಭೋಗ ನರಸಿಂಹ ದೇವಾಲಯಗಳಿರುವ ಸುಂದರ ಹಸಿರು ಬೆಟ್ಟ ಶ್ರೇಣಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "madhugiri-fort": {
+    "name_kn": "ಮಧುಗಿರಿ ಕೋಟೆ",
+    "description_kn": "ಏಷ್ಯಾದ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಏಕಶಿಲಾ ಬೆಟ್ಟದ ಮೇಲಿರುವ ಸವಾಲಿನ ಐತಿಹಾಸಿಕ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "siddaganga-mutt": {
+    "name_kn": "ಸಿದ್ಧಗಂಗಾ ಮಠ",
+    "description_kn": "ತ್ರಿವಿಧ ದಾಸೋಹಿ ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಅವರ ಪಾವನ ಕರ್ಮಭೂಮಿ ಮತ್ತು ವಿದ್ಯಾಸಂಸ್ಥೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "mysore-palace": {
+    "name_kn": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾವಿಲಾಸ)",
+    "description_kn": "ಒಡೆಯರ್ ವಂಶದ ರಾಜವೈಭವದ ಪ್ರತೀಕವಾಗಿರುವ ವಿಶ್ವವಿಖ್ಯಾತ ಇಂಡೋ-ಸಾರ್ಸೆನಿಕ್ ಅರಮನೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "chamundi-hills": {
+    "name_kn": "ಚಾಮುಂಡಿ ಬೆಟ್ಟ",
+    "description_kn": "ಮೈಸೂರಿನ ರಕ್ಷಕ ದೇವತೆ ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ತಾಯಿಯ ಸನ್ನಿಧಿ ಹಾಗೂ ನಂದಿ ಪ್ರತಿಮೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "srirangapatna-ranganathaswamy-temple": {
+    "name_kn": "ಶ್ರೀರಂಗಪಟ್ಟಣ ರಂಗನಾಥಸ್ವಾಮಿ ದೇವಾಲಯ",
+    "description_kn": "ಕಾವೇರಿ ನದಿಯ ದ್ವೀಪದಲ್ಲಿರುವ ಪವಿತ್ರ ಪಂಚರಂಗ ಕ್ಷೇತ್ರಗಳಲ್ಲೊಂದು.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "tipu-sultan-s-summer-palace": {
+    "name_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬೇಸಿಗೆ ಅರಮನೆ (ದರಿಯಾ ದೌಲತ್)",
+    "description_kn": "ಸುಂದರ ತೇಗದ ಮರದ ಕೆತ್ತನೆ ಹಾಗೂ ಭಿತ್ತಿಚಿತ್ರಗಳಿಂದ ಕೂಡಿದ ಐತಿಹಾಸಿಕ ಅರಮನೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "brindavan-gardens-krs": {
+    "name_kn": "ಬೃಂದಾವನ ಗಾರ್ಡನ್ಸ್ (ಕೆ.ಆರ್.ಎಸ್)",
+    "description_kn": "ಕೃಷ್ಣರಾಜ ಸಾಗರ ಅಣೆಕಟ್ಟಿನ ಕೆಳಗಿರುವ ವರ್ಣರಂಜಿತ ಸಂಗೀತ ಕಾರಂಜಿ ಮತ್ತು ಸುಂದರ ಉದ್ಯಾನ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "biligiri-rangaswamy-hills-br-hills": {
+    "name_kn": "ಬಿಳಿಗಿರಿ ರಂಗನಾಥ ಬೆಟ್ಟ (ಬಿ.ಆರ್. ಹಿಲ್ಸ್)",
+    "description_kn": "ಪಶ್ಚಿಮ-ಪೂರ್ವ ಘಟ್ಟಗಳ ಸಂಗಮ, ವನ್ಯಜೀವಿ ತಾಣ ಮತ್ತು ಶ್ರೀ ರಂಗನಾಥ ಸ್ವಾಮಿ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "male-mahadeshwara-hills": {
+    "name_kn": "ಮಲೆ ಮಹದೇಶ್ವರ ಬೆಟ್ಟ (ಎಂ.ಎಂ. ಹಿಲ್ಸ್)",
+    "description_kn": "ದಟ್ಟ ಕಾನನದ ನಡುವೆ ನೆಲೆಸಿರುವ ಶ್ರೀ ಮಾದಪ್ಪನ ಪವಿತ್ರ ಧಾರ್ಮಿಕ ಯಾತ್ರಾ ಸ್ಥಳ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "chennakeshava-temple-belur": {
+    "name_kn": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ, ಬೇಲೂರು",
+    "description_kn": "ಹೊಯ್ಸಳ ಶಿಲ್ಪಕಲೆಯ ಅದ್ಭುತ ಶಿಲಾಬಾಲಿಕೆಯರು ಹಾಗೂ ವಿಶ್ವ ಪಾರಂಪರಿಕ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "hoysaleswara-temple-halebidu": {
+    "name_kn": "ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ, ಹಳೇಬೀಡು",
+    "description_kn": "ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಯ ಕಲ್ಲಿನ ಶಿಲ್ಪಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾದ ಹೊಯ್ಸಳ ಕಾಲದ ಭವ್ಯ ದೇಗುಲ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "gommateshwara-shravanabelagola": {
+    "name_kn": "ಗೊಮ್ಮಟೇಶ್ವರ ಬಾಹುಬಲಿ, ಶ್ರವಣಬೆಳಗೊಳ",
+    "description_kn": "ವಿಶ್ವದ ಅತಿ ಎತ್ತರದ ಏಕಶಿಲಾ ವಿಗ್ರಹಗಳಲ್ಲಿ ಒಂದಾದ ಪವಿತ್ರ ಜೈನ ತೀರ್ಥಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "abbey-falls": {
+    "name_kn": "ಅಬ್ಬೆ ಜಲಪಾತ",
+    "description_kn": "ಕಾಫಿ ಮತ್ತು ಮಸಾಲೆ ತೋಟಗಳ ನಡುವೆ ಧುಮ್ಮಿಕ್ಕುವ ಕೊಡಗಿನ ಮೋಡಿಮಾಡುವ ಜಲಪಾತ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "raja-s-seat-madikeri": {
+    "name_kn": "ರಾಜಾಸೀಟ್, ಮಡಿಕೇರಿ",
+    "description_kn": "ಕೊಡಗಿನ ರಾಜರು ಸೂರ್ಯಾಸ್ತ ವೀಕ್ಷಿಸುತ್ತಿದ್ದ ರಮಣೀಯ ಉದ್ಯಾನವನ ಮತ್ತು ಕಣಿವೆ ನೋಟ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "talakaveri": {
+    "name_kn": "ತಲಕಾವೇರಿ",
+    "description_kn": "ಕರ್ನಾಟಕದ ಜೀವನದಿ ಕಾವೇರಿಯ ಉಗಮ ಸ್ಥಾನ ಮತ್ತು ಬ್ರಹ್ಮಗಿರಿ ಬೆಟ್ಟದ ಪವಿತ್ರ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "mullayanagiri": {
+    "name_kn": "ಮುಳ್ಳಯ್ಯನಗಿರಿ",
+    "description_kn": "ಕರ್ನಾಟಕದ ಅತ್ಯುನ್ನತ ಶಿಖರ, ಬೆಟ್ಟದ ತುದಿಯಲ್ಲಿ ಮುಳ್ಳಪ್ಪ ಸ್ವಾಮಿಯ ಗದ್ದುಗೆ ಇದೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "baba-budangiri": {
+    "name_kn": "ಬಾಬಾ ಬುಡನ್‌ಗಿರಿ (ದತ್ತಪೀಠ)",
+    "description_kn": "ಕಾಫಿ ಸಸಿ ಮೊದಲು ಬಂದ ಪವಿತ್ರ ಗಿರಿಶ್ರೇಣಿ ಮತ್ತು ಭಾವೈಕ್ಯತೆಯ ಧರ್ಮಸ್ಥಳ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "kemmannagundi": {
+    "name_kn": "ಕೆಮ್ಮಣ್ಣುಗುಂಡಿ (ಕೃಷ್ಣರಾಜೇಂದ್ರ ಗಿರಿಧಾಮ)",
+    "description_kn": "ರಾಜರ್ಷಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್ ನೆಚ್ಚಿನ ಗಿರಿಧಾಮ, ಸುಂದರ ಹೂದೋಟಗಳು ಮತ್ತು ಕಣಿವೆಗಳು.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "jog-falls": {
+    "name_kn": "ಜೋಗ ಜಲಪಾತ",
+    "description_kn": "ಶರಾವತಿ ನದಿಯ ರಾಜ, ರಾಣಿ, ರೋರರ್, ರಾಕೆಟ್ ನಾಲ್ಕು ಕವಲುಗಳ ಭವ್ಯ ಜಲಪಾತ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "agumbe": {
+    "name_kn": "ಆಗುಂಬೆ",
+    "description_kn": "ದಕ್ಷಿಣ ಭಾರತದ ಚಿರಾಪುಂಜಿ, ರಮಣೀಯ ಸೂರ್ಯಾಸ್ತ ಮತ್ತು ದಟ್ಟ ಮಳೆಕಾಡುಗಳ ತವರು.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "keladi-rameshwara-temple": {
+    "name_kn": "ಕೆಳದಿ ರಾಮೇಶ್ವರ ದೇವಾಲಯ",
+    "description_kn": "ಕೆಳದಿ ನಾಯಕರ ಕಾಲದ ಹೊಯ್ಸಳ-ದ್ರಾವಿಡ ಸಮ್ಮಿಶ್ರ ವಾಸ್ತುಶಿಲ್ಪದ ಸುಂದರ ದೇಗುಲ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "dharmasthala-manjunatha-temple": {
+    "name_kn": "ಧರ್ಮಸ್ಥಳ ಶ್ರೀ ಮಂಜುನಾಥಸ್ವಾಮಿ ಸನ್ನಿಧಿ",
+    "description_kn": "ಅನ್ನದಾನ, ಅಭಯದಾನ, ನ್ಯಾಯದಾನಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾದ ಪರಮ ಪಾವನ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "kukke-subramanya-temple": {
+    "name_kn": "ಕುಕ್ಕೆ ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಾಲಯ",
+    "description_kn": "ಕುಮಾರಧಾರಾ ನದಿಯ ತೀರದಲ್ಲಿರುವ ಸರ್ಪದೋಷ ಪರಿಹಾರದ ಪ್ರಸಿದ್ಧ ನಾಗಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "panambur-beach": {
+    "name_kn": "ಪಣಂಬೂರು ಕಡಲತೀರ",
+    "description_kn": "ಮಂಗಳೂರಿನ ಸುರಕ್ಷಿತ ಹಾಗೂ ಸ್ವಚ್ಛ ಕಡಲತೀರ, ಜಲಕ್ರೀಡೆಗಳು ಮತ್ತು ಗಾಳಿಪಟ ಉತ್ಸವಕ್ಕೆ ಹೆಸರುವಾಸಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "st-aloysius-chapel": {
+    "name_kn": "ಸೇಂಟ್ ಅಲೋಶಿಯಸ್ ಚಾಪೆಲ್",
+    "description_kn": "ಇಟಾಲಿಯನ್ ಕಲಾವಿದ ಆಂಟೋನಿ ಮೊಶೇನಿ ರಚಿಸಿದ ಅದ್ಭುತ ಭಿತ್ತಿಚಿತ್ರಗಳ ಕ್ರೈಸ್ತ ದೇವಾಲಯ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "sri-krishna-matha": {
+    "name_kn": "ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ",
+    "description_kn": "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಸ್ಥಾಪಿತವಾದ ಕನಕನ ಕಿಂಡಿಯ ಮೂಲಕ ದರ್ಶನ ನೀಡುವ ಕೃಷ್ಣ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "malpe-beach": {
+    "name_kn": "ಮಲ್ಪೆ ಕಡಲತೀರ",
+    "description_kn": "ಚಿನ್ನದ ಮರಳಿನ ಬೀಚ್, ಸಮುದ್ರ ನಡಿಗೆ (ಸೀ ವಾಕ್) ಮತ್ತು ಸೇಂಟ್ ಮೇರಿಸ್ ದ್ವೀಪದ ಬೋಟಿಂಗ್.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "st-mary-s-island": {
+    "name_kn": "ಸೇಂಟ್ ಮೇರಿಸ್ ದ್ವೀಪ",
+    "description_kn": "ಭಾರತದಲ್ಲೇ ವಿಶಿಷ್ಟವಾದ ಷಡ್ಭುಜಾಕೃತಿಯ ಜ್ವಾಲಾಮುಖಿ ಬಸಾಲ್ಟ್ ಕಲ್ಲುಬಂಡೆಗಳ ದ್ವೀಪ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "gokarna-mahabaleshwar-temple-beaches": {
+    "name_kn": "ಗೋಕರ್ಣ - ಮಹಾಬಲೇಶ್ವರ ದೇವಾಲಯ ಮತ್ತು ಬೀಚ್‌ಗಳು",
+    "description_kn": "ಆತ್ಮಲಿಂಗ ನೆಲೆಸಿರುವ ಪುಣ್ಯಭೂಮಿ ಹಾಗೂ ಓಂ ಬೀಚ್, ಕುಡ್ಲೆ ಬೀಚ್‌ಗಳ ಕಡಲ ಸಂಗಮ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "murudeshwar-temple": {
+    "name_kn": "ಮುರುಡೇಶ್ವರ ದೇವಾಲಯ",
+    "description_kn": "ಅರಬ್ಬಿ ಸಮುದ್ರದ ತೀರದಲ್ಲಿರುವ ವಿಶ್ವದ ಎರಡನೇ ಅತಿ ಎತ್ತರದ ಬೃಹತ್ ಶಿವನ ಪ್ರತಿಮೆ ಹಾಗೂ ರಾಜಗೋಪುರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "yana-caves": {
+    "name_kn": "ಯಾಣ ಗುಹೆಗಳು",
+    "description_kn": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳ ಅರಣ್ಯದ ನಡುವಿನ ಬೃಹತ್ ಕಪ್ಪು ಸ್ಫಟಿಕ ಶಿಲಾ ಶಿಖರಗಳು (ಭೈರವೇಶ್ವರ ಹಾಗೂ ಮೋಹಿನಿ ಶಿಖರ).",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "belagavi-fort": {
+    "name_kn": "ಬೆಳಗಾವಿ ಕೋಟೆ",
+    "description_kn": "ಕಮಲ ಬಸದಿ ಮತ್ತು ಪ್ರಾಚೀನ ಮಸೀದಿಗಳನ್ನು ಒಳಗೊಂಡ ಸುಭದ್ರ ಐತಿಹಾಸಿಕ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "gokak-falls": {
+    "name_kn": "ಗೋಕಾಕ್ ಜಲಪಾತ",
+    "description_kn": "ಘಟಪ್ರಭಾ ನದಿಯು ಧುಮ್ಮಿಕ್ಕುವ ಕರ್ನಾಟಕದ ನಯಾಗರಾ ಹಾಗೂ ತೂಗು ಸೇತುವೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "kittur-fort": {
+    "name_kn": "ಕಿತ್ತೂರು ಕೋಟೆ ಮತ್ತು ಅರಮನೆ",
+    "description_kn": "ವೀರರಾಣಿ ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಸಂಗ್ರಾಮ ಸಾರಿದ ಐತಿಹಾಸಿಕ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "unkal-lake": {
+    "name_kn": "ಉಣಕಲ್ ಕೆರೆ",
+    "description_kn": "ಹುಬ್ಬಳ್ಳಿಯ ಸುಂದರ ಸರೋವರ, ಮಧ್ಯದಲ್ಲಿ ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ ಪ್ರತಿಮೆ ಮತ್ತು ಬೋಟಿಂಗ್ ಸೌಲಭ್ಯ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "nrupatunga-betta": {
+    "name_kn": "ನೃಪತುಂಗ ಬೆಟ್ಟ",
+    "description_kn": "ಹುಬ್ಬಳ್ಳಿ ನಗರದ ವಿಹಂಗಮ ನೋಟ ಮತ್ತು ಪ್ರಶಾಂತ ವಾಯುವಿಹಾರಕ್ಕೆ ಸೂಕ್ತ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "siddharudha-math-hubballi": {
+    "name_kn": "ಸಿದ್ಧಾರೂಢ ಮಠ, ಹುಬ್ಬಳ್ಳಿ",
+    "description_kn": "ಶ್ರೀ ಸಿದ್ಧಾರೂಢ ಸ್ವಾಮೀಜಿ ಅವರ ಸಮಾಧಿ ಮಂದಿರ ಮತ್ತು ಅಧ್ಯಾತ್ಮಿಕ ಕೇಂದ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "lakkundi-temples": {
+    "name_kn": "ಲಕ್ಕುಂಡಿ ದೇವಾಲಯಗಳು",
+    "description_kn": "ಕಲ್ಯಾಣಿ ಚಾಲುಕ್ಯರ ಶಿಲ್ಪಕಲಾ ವೈಭವದ ದೇವಾಲಯಗಳು ಹಾಗೂ ಸುಂದರ ಮೆಟ್ಟಿಲು ಬಾವಿಗಳು.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "trikuteshwara-temple-gadag": {
+    "name_kn": "ತ್ರಿಕೂಟೇಶ್ವರ ದೇವಾಲಯ, ಗದಗ",
+    "description_kn": "ತ್ರಿಮೂರ್ತಿಗಳ ಲಿಂಗರೂಪ ಹಾಗೂ ಸರಸ್ವತಿ ದೇವಿಯ ಅಪೂರ್ವ ಕೆತ್ತನೆಯ ದೇವಾಲಯ ಸಂಕೀರ್ಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "galaganatha-temple": {
+    "name_kn": "ಗಲಗನಾಥ ದೇವಾಲಯ",
+    "description_kn": "ತುಂಗಭದ್ರಾ ನದಿ ತೀರದಲ್ಲಿರುವ ಚಾಲುಕ್ಯ ಶೈಲಿಯ ಪ್ರಾಚೀನ ಶಿವ ದೇವಾಲಯ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "bankapura-peacock-sanctuary": {
+    "name_kn": "ಬಂಕಾಪುರ ನವಿಲು ಅಭಯಾರಣ್ಯ",
+    "description_kn": "ಐತಿಹಾಸಿಕ ಕೋಟೆಯ ಆವರಣದಲ್ಲೇ ನೂರಾರು ನವಿಲುಗಳು ಮುಕ್ತವಾಗಿ ವಿಹರಿಸುವ ಅಭಯಾರಣ್ಯ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "kaginele-kanaka-gurupeeta": {
+    "name_kn": "ಕಾಗಿನೆಲೆ ಕನಕ ಗುರುಪೀಠ",
+    "description_kn": "ಭಕ್ತ ಶ್ರೇಷ್ಠ ಸಂತ ಕನಕದಾಸರ ಆರಾಧ್ಯ ದೈವ ಕೇಶವನ ನೆಲೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೇಂದ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "badami-cave-temples": {
+    "name_kn": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+    "description_kn": "ಕೆಂಪು ಮರಳುಗಲ್ಲಿನ ಬಂಡೆಗಳನ್ನು ಕೊರೆದು ನಿರ್ಮಿಸಿದ ಚಾಲುಕ್ಯರ ಅದ್ಭುತ ಗುಹಾ ದೇಗುಲಗಳು.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "pattadakal-group-of-monuments": {
+    "name_kn": "ಪಟ್ಟದಕಲ್ಲು ಸ್ಮಾರಕ ಸಮೂಹ",
+    "description_kn": "ನಾಗರ ಮತ್ತು ದ್ರಾವಿಡ ಶೈಲಿಗಳ ಸಂಗಮವಿರುವ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪಾರಂಪರಿಕ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "aihole": {
+    "name_kn": "ಐಹೊಳೆ",
+    "description_kn": "ಭಾರತೀಯ ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪದ ತೊಟ್ಟಿಲು ಎಂದು ಪ್ರಸಿದ್ಧಿ ಪಡೆದ ನೂರಕ್ಕೂ ಹೆಚ್ಚು ದೇಗುಲಗಳ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "gol-gumbaz": {
+    "name_kn": "ಗೋಲ್ ಗುಂಬಜ್",
+    "description_kn": "ಮುಹಮ್ಮದ್ ಆದಿಲ್ ಶಾಹ್ ಸಮಾಧಿ, ವಿಶ್ವದಲ್ಲೇ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಗುಮ್ಮಟ ಹಾಗೂ ಪಿಸುಮಾತಿನ ಗ್ಯಾಲರಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "ibrahim-rauza": {
+    "name_kn": "ಇಬ್ರಾಹಿಂ ರೋಜಾ",
+    "description_kn": "ದಕ್ಷಿಣ ಭಾರತದ ತಾಜ್ ಮಹಲ್ ಎಂದು ಕರೆಯಲಾಗುವ ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಯ ಅದ್ಭುತ ಇಸ್ಲಾಮಿಕ್ ಸ್ಮಾರಕ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "malik-e-maidan-cannon": {
+    "name_kn": "ಮಲಿಕ್-ಎ-ಮೈದಾನ್ ಫಿರಂಗಿ",
+    "description_kn": "ಮಧ್ಯಕಾಲೀನ ಯುಗದ ಬೃಹತ್ ಕಂಚಿನ ಫಿರಂಗಿ, ಸಿಂಹದ ಮುಖದ ಆಕಾರದ ಬಾಯಿಯನ್ನು ಹೊಂದಿದೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "gulbarga-fort": {
+    "name_kn": "ಕಲಬುರಗಿ ಕೋಟೆ",
+    "description_kn": "ಬಹಮನಿ ಸುಲ್ತಾನರ ಭವ್ಯ ಕೋಟೆ ಮತ್ತು ಸ್ಪ್ಯಾನಿಷ್ ಶೈಲಿಯ ಮಾದರಿಯ ಜಾಮಾ ಮಸೀದಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "khwaja-bande-nawaz-dargah": {
+    "name_kn": "ಖ್ವಾಜಾ ಬಂದೇ ನವಾಜ್ ದರ್ಗಾ",
+    "description_kn": "ಪ್ರಸಿದ್ಧ ಸೂಫಿ ಸಂತ ಹಜ್ರತ್ ಬಂದೇ ನವಾಜ್ ಅವರ ಪವಿತ್ರ ದರ್ಗಾ ಮತ್ತು ಕೋಮು ಸೌಹಾರ್ದತೆಯ ಕೇಂದ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "bidar-fort": {
+    "name_kn": "ಬೀದರ್ ಕೋಟೆ",
+    "description_kn": "ರಂಗೀನ್ ಮಹಲ್, ಸೋಲ್ಹಾ ಕಂಬಾ ಮಸೀದಿ ಮತ್ತು ಕರೇಜ್ ನೀರಿನ ಸುರಂಗ ವ್ಯವಸ್ಥೆ ಹೊಂದಿರುವ ಬಲಿಷ್ಠ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "mahmud-gawan-madrasa": {
+    "name_kn": "ಮಹ್ಮೂದ್ ಗವಾನ್ ಮದರಸಾ",
+    "description_kn": "15ನೇ ಶತಮಾನದ ಪ್ರಸಿದ್ಧ ಇಸ್ಲಾಮಿಕ್ ವಿಶ್ವವಿದ್ಯಾಲಯ ಮತ್ತು ಇರಾನಿಯನ್ ನೀಲಿ ಪಿಂಗಾಣಿ ಕಲೆಯ ಸ್ಮಾರಕ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "papnash-shiva-temple": {
+    "name_kn": "ಪಾಪನಾಶ ಶಿವ ದೇವಾಲಯ",
+    "description_kn": "ಶ್ರೀರಾಮಚಂದ್ರನಿಂದ ಪೂಜಿಸಲ್ಪಟ್ಟ ಪವಿತ್ರ ಶಿವಲಿಂಗ ಮತ್ತು ಪಾಪಗಳನ್ನು ತೊಳೆಯುವ ನೈಸರ್ಗಿಕ ತೀರ್ಥಕುಂಡ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "yadgir-fort": {
+    "name_kn": "ಯಾದಗಿರಿ ಬೆಟ್ಟದ ಕೋಟೆ",
+    "description_kn": "ಯಾದವ ರಾಜರು ನಿರ್ಮಿಸಿದ ಬೃಹತ್ ಕಲ್ಲಿನ ಬೆಟ್ಟದ ಮೇಲಿನ ಐತಿಹಾಸಿಕ ರಕ್ಷಣಾ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "shorapur-fort-palace": {
+    "name_kn": "ಶೋರಾಪುರ (ಸುರಪುರ) ಕೋಟೆ ಮತ್ತು ಅರಮನೆ",
+    "description_kn": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ರಾಜಾ ವೆಂಕಟಪ್ಪ ನಾಯಕರ ಶೌರ್ಯದ ನೆನಪಿನ ಅರಮನೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "raichur-fort": {
+    "name_kn": "ರಾಯಚೂರು ಕೋಟೆ",
+    "description_kn": "ಕಾಕತೀಯರು ಮತ್ತು ವಿಜಯನಗರ ಅರಸರ ಇತಿಹಾಸ ಸಾರುವ ಕೃಷ್ಣಾ-ತುಂಗಭದ್ರಾ ದೋಆಬ್‌ನ ಭದ್ರ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "mudgal-fort": {
+    "name_kn": "ಮುದ್ಗಲ್ ಕೋಟೆ",
+    "description_kn": "ವಿಜಯನಗರ ಮತ್ತು ಬಹಮನಿ ಸಾಮ್ರಾಜ್ಯಗಳ ಅನೇಕ ಯುದ್ಧಗಳಿಗೆ ಸಾಕ್ಷಿಯಾದ ಪ್ರಾಚೀನ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "maski-ashokan-edict-site": {
+    "name_kn": "ಮಸ್ಕಿ ಅಶೋಕನ ಶಿಲಾಶಾಸನ ತಾಣ",
+    "description_kn": "'ದೇವನಾಂಪಿಯ ಪಿಯದಸಿ ಅಶೋಕ' ಎಂಬ ಚಕ್ರವರ್ತಿ ಅಶೋಕನ ಹೆಸರು ನೇರವಾಗಿ ಉಲ್ಲೇಖವಾದ ಶಾಸನ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "virupaksha-temple-hampi": {
+    "name_kn": "ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, ಹಂಪಿ",
+    "description_kn": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಿಂದಲೂ ನಿರಂತರ ಪೂಜೆ ನಡೆಯುತ್ತಿರುವ ಪವಿತ್ರ ಹೇಮಕೂಟ ಪಾರ್ಶ್ವದ ದೇಗುಲ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "vittala-temple-hampi": {
+    "name_kn": "ವಿಜಯ ವಿಠ್ಠಲ ದೇವಾಲಯ ಮತ್ತು ಕಲ್ಲಿನ ರಥ",
+    "description_kn": "ವಿಶ್ವವಿಖ್ಯಾತ ಕಲ್ಲಿನ ರಥ ಮತ್ತು ಸಪ್ತಸ್ವರ ಹೊರಹೊಮ್ಮಿಸುವ ಸಂಗೀತ ಕಂಬಗಳ ಶಿಲ್ಪಕಲಾ ಮಹೋನ್ನತಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "lotus-mahal-zenana-enclosure": {
+    "name_kn": "ಕಮಲ ಮಹಲ್ (ಲೋಟಸ್ ಮಹಲ್) ಮತ್ತು ಜನಾನ ಎನ್‌ಕ್ಲೋಸರ್",
+    "description_kn": "ಇಂಡೋ-ಇಸ್ಲಾಮಿಕ್ ಶೈಲಿಯಲ್ಲಿ ಅರಳಿದ ಕಮಲದ ಹೂವಿನಾಕಾರದ ರಾಣಿಯರ ವಿಹಾರ ಮಹಲ್.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "tungabhadra-dam": {
+    "name_kn": "ತುಂಗಭದ್ರಾ ಅಣೆಕಟ್ಟು (ಟಿ.ಬಿ. ಡ್ಯಾಂ)",
+    "description_kn": "ಹೊಸಪೇಟೆಯ ಬೃಹತ್ ಜಲಾಶಯ, ಸುಂದರ ಜಪಾನೀಸ್ ಉದ್ಯಾನ ಮತ್ತು ಸಂಗೀತ ಕಾರಂಜಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "anegundi": {
+    "name_kn": "ಆನೆಗುಂದಿ",
+    "description_kn": "ರಾಮಾಯಣ ಕಾಲದ ಕಿಷ್ಕಿಂಧೆ ಎಂದೇ ಹೆಸರಾದ ವಿಜಯನಗರದ ತಾಯಿ ನೆಲೆ ಮತ್ತು ಪುರಾತನ ಗ್ರಾಮ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "anjanadri-hill": {
+    "name_kn": "ಅಂಜನಾದ್ರಿ ಬೆಟ್ಟ",
+    "description_kn": "ಶ್ರೀ ಹನುಮಂತ ದೇವರ ಜನ್ಮಸ್ಥಳವೆಂದು ನಂಬಲಾದ ಪವಿತ್ರ ಗಿರಿ, ತುಂಗಭದ್ರಾ ಕಣಿವೆಯ ವಿಹಂಗಮ ನೋಟ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "ballari-fort": {
+    "name_kn": "ಬಳ್ಳಾರಿ ಕೋಟೆ",
+    "description_kn": "ಬಳ್ಳಾರಿ ಗುಡ್ಡದ ಮೇಲೆ ಹೈದರಾಲಿ ಮತ್ತು ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಕಾಲದಲ್ಲಿ ಬಲಪಡಿಸಲಾದ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "sandur-kumaraswamy-temple": {
+    "name_kn": "ಸಂಡೂರು ಕುಮಾರಸ್ವಾಮಿ ದೇವಾಲಯ",
+    "description_kn": "ಬಾದಾಮಿ ಚಾಲುಕ್ಯರು ಮತ್ತು ರಾಷ್ಟ್ರಕೂಟರ ಕಾಲದ ನಿತ್ಯಹರಿದ್ವರ್ಣ ಕಣಿವೆಯ ಕಾರ್ತಿಕೇಯ ಸನ್ನಿಧಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "daroji-bear-sanctuary": {
+    "name_kn": "ದಾರೋಜಿ ಕರಡಿ ಧಾಮ",
+    "description_kn": "ಏಷ್ಯಾದಲ್ಲೇ ಮೊದಲ ಕರಡಿ ಸಂರಕ್ಷಣಾ ಧಾಮ, ಬಂಡೆಗಲ್ಲುಗಳ ನಡುವೆ ಕರಡಿಗಳನ್ನು ಕಣ್ತುಂಬಿಕೊಳ್ಳುವ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "chitradurga-fort": {
+    "name_kn": "ಚಿತ್ರದುರ್ಗದ ಕಲ್ಲಿನ ಕೋಟೆ",
+    "description_kn": "ಏಳು ಸುತ್ತಿನ ಕೋಟೆ, ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ ಮತ್ತು ನಾಯಕರ ಶೌರ್ಯ ಸಾರುವ ಅದ್ಭುತ ಕೋಟೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "chandravalli-caves": {
+    "name_kn": "ಚಂದ್ರವಳ್ಳಿ ಗುಹೆಗಳು",
+    "description_kn": "ಪ್ರಾಚೀನ ರಾಜರ ರಹಸ್ಯ ಸಮಾಲೋಚನಾ ಗುಹೆಗಳು ಮತ್ತು ಕದಂಬ ಶಾಸನಗಳಿರುವ ಕಣಿವೆ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "jogimatti-forest": {
+    "name_kn": "ಜೋಗಿಮಟ್ಟಿ ಗಿರಿಧಾಮ ಹಾಗೂ ಅರಣ್ಯ",
+    "description_kn": "ಚಿತ್ರದುರ್ಗದ ತಂಪಾದ ಗಿರಿಧಾಮ, ಹಿಮವತ್ಕೇದಾರ ಜಲಪಾತ ಮತ್ತು ವನ್ಯಜೀವಿ ತಾಣ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "harihareshwara-temple": {
+    "name_kn": "ಹರಿಹರೇಶ್ವರ ದೇವಾಲಯ, ಹರಿಹರ",
+    "description_kn": "ತುಂಗಭದ್ರಾ ನದಿ ತೀರದ ಹೊಯ್ಸಳ ಕಾಲದ ಹರಿ ಮತ್ತು ಹರ (ವಿಷ್ಣು-ಶಿವ) ಒಂದಾದ ಅದ್ವೈತ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "santebennur-pushkarini": {
+    "name_kn": "ಶಾಂತೆಬೆನ್ನೂರು ಪುಷ್ಕರಣಿ",
+    "description_kn": "ಮಧ್ಯದಲ್ಲಿ ಸುಂದರ ವಸಂತ ಮಂಟಪವಿರುವ 16ನೇ ಶತಮಾನದ ಐತಿಹಾಸಿಕ ಕಲ್ಯಾಣಿ.",
+    "machine_translated": true,
+    "reviewed": false
+  },
+  "uchchangi-durga-temple": {
+    "name_kn": "ಉಚ್ಚಂಗಿದುರ್ಗ ಉತ್ಸವಾಂಬಾ ದೇವಾಲಯ",
+    "description_kn": "ಬೆಟ್ಟದ ಮೇಲಿನ ಪುರಾತನ ಕೋಟೆ ಮತ್ತು ಶಕ್ತಿ ದೇವತೆ ಉತ್ಸವಾಂಬೆಯ ಪ್ರಸಿದ್ಧ ಕ್ಷೇತ್ರ.",
+    "machine_translated": true,
+    "reviewed": false
+  }
+}
