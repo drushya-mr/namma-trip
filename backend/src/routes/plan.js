@@ -6,12 +6,12 @@ const db = require('../data/db');
 
 const planSchema = z.object({
   interests: z.array(z.string()).optional().default([]),
-  days: z.number().min(1).max(7).default(2),
-  budget: z.number().min(500).max(500000).default(5000),
+  days: z.coerce.number().min(1).max(7).default(2),
+  budget: z.coerce.number().min(500).max(500000).default(5000),
   travelStyle: z.enum(['relaxed', 'packed']).default('relaxed'),
   groupType: z.enum(['solo', 'friends', 'family']).default('friends'),
   startingCity: z.string().min(2).default('Bengaluru'),
-  language: z.enum(['kn', 'en']).default('kn')
+  language: z.string().optional().transform(l => (l && l.startsWith('en')) ? 'en' : 'kn').default('kn')
 });
 
 // POST /api/plan - Generate a plan

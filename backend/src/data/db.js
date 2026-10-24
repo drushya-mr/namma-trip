@@ -278,8 +278,11 @@ const db = {
       const { district, cluster, category, q } = query;
 
       if (district) {
-        const dLower = district.toLowerCase();
-        filtered = filtered.filter(p => p.district.toLowerCase() === dLower);
+        const dTrim = district.trim().toLowerCase();
+        filtered = filtered.filter(p => {
+          const pDist = p.district.toLowerCase();
+          return pDist === dTrim || pDist.includes(dTrim) || dTrim.includes(pDist);
+        });
       }
       if (cluster) {
         filtered = filtered.filter(p => p.cluster === cluster || p.cluster.includes(cluster));

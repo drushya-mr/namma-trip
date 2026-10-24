@@ -1,8 +1,24 @@
-const rawBase = import.meta.env.VITE_API_BASE || import.meta.env.VITE_API_BASE_URL || import.meta.env.VITE_API_URL || '/api';
-const cleanBase = rawBase.replace(/\/+$/, '');
-const API_BASE = (cleanBase.startsWith('http://') || cleanBase.startsWith('https://')) && !cleanBase.endsWith('/api')
-  ? `${cleanBase}/api`
-  : cleanBase;
+const getApiBase = () => {
+  const envUrl = import.meta.env.VITE_API_BASE || import.meta.env.VITE_API_BASE_URL || import.meta.env.VITE_API_URL;
+  if (envUrl && typeof envUrl === 'string' && envUrl.trim() !== '') {
+    const clean = envUrl.trim().replace(/\/+$/, '');
+    return (clean.startsWith('http://') || clean.startsWith('https://')) && !clean.endsWith('/api')
+      ? `${clean}/api`
+      : clean;
+  }
+
+  // When deployed to production (e.g. on Vercel), default to the live Render backend
+  if (typeof window !== 'undefined') {
+    const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    if (!isLocalhost) {
+      return 'https://namma-trip.onrender.com/api';
+    }
+  }
+
+  return '/api';
+};
+
+const API_BASE = getApiBase();
 
 async function fetchJson(url, options = {}) {
   const headers = {
@@ -15,7 +31,11 @@ async function fetchJson(url, options = {}) {
     headers
   });
 
-  const data = await response.json().catch(() => ({}));
+  const contentType = response.headers.get('content-type') || '';
+  let data = {};
+  if (contentType.includes('application/json')) {
+    data = await response.json().catch(() => ({}));
+  }
 
   if (!response.ok) {
     throw new Error(data.error || `HTTP error ${response.status}`);

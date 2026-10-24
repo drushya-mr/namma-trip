@@ -8,11 +8,12 @@ import {
 import { api } from '../services/api';
 import VerificationBadge from '../components/VerificationBadge';
 import districtsData from '../data/districts.json';
+import placesInitial from '../data/places.json';
 
 export default function ExplorePage() {
   const { t, i18n } = useTranslation();
-  const [places, setPlaces] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [places, setPlaces] = useState(placesInitial || []);
+  const [loading, setLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCluster, setSelectedCluster] = useState('all');
   const [selectedDistrict, setSelectedDistrict] = useState(null);
@@ -21,13 +22,11 @@ export default function ExplorePage() {
     async function loadPlaces() {
       try {
         const res = await api.getPlaces();
-        if (res.success) {
-          setPlaces(res.places || []);
+        if (res && res.success && Array.isArray(res.places) && res.places.length > 0) {
+          setPlaces(res.places);
         }
       } catch (e) {
-        console.error('Failed to load places:', e);
-      } finally {
-        setLoading(false);
+        console.warn('API getPlaces fallback to bundled dataset:', e.message);
       }
     }
     loadPlaces();
@@ -54,8 +53,20 @@ export default function ExplorePage() {
         return false;
       }
       // District filter
-      if (selectedDistrict && p.district.toLowerCase() !== selectedDistrict.toLowerCase()) {
-        return false;
+      if (selectedDistrict) {
+        const selLower = selectedDistrict.toLowerCase().trim();
+        const pDistLower = (p.district || '').toLowerCase().trim();
+        const directMatch = pDistLower === selLower || pDistLower.includes(selLower) || selLower.includes(pDistLower);
+        if (!directMatch) {
+          const distObj = districtsData.find(d =>
+            d.name_en.toLowerCase() === selLower ||
+            d.name_kn === selectedDistrict ||
+            d.id === selLower
+          );
+          if (!distObj || !pDistLower.includes(distObj.name_en.toLowerCase())) {
+            return false;
+          }
+        }
       }
       // Search query (bilingual matching)
       if (searchQuery.trim()) {
@@ -175,7 +186,14 @@ export default function ExplorePage() {
             return (
               <button
                 key={d.id}
-                onClick={() => setSelectedDistrict(isSelected ? null : d.name_en)}
+                onClick={() => {
+                  if (isSelected) {
+                    setSelectedDistrict(null);
+                  } else {
+                    setSelectedDistrict(d.name_en);
+                    setSelectedCluster('all'); // Clear cluster filter so district places are never hidden
+                  }
+                }}
                 className={`p-2 rounded-xl text-left text-xs transition-all ${
                   isSelected
                     ? 'bg-amber-500 text-white font-bold shadow-sm'
