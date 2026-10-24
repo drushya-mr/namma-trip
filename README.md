@@ -170,5 +170,13 @@ Open **`http://localhost:5173`** in your browser. The app will open in Kannada w
 ---
 
 ## 🌐 Production Deployment
-- **Frontend (Vercel)**: Connect repository, set Root Directory to `frontend`, set `VITE_API_BASE_URL` to your backend URL.
-- **Backend (Render)**: Create a Web Service, set Root Directory to `backend`, Build Command: `npm install`, Start Command: `node src/server.js`.
+- **Frontend (Vercel)**: [https://namma-trip-beige.vercel.app](https://namma-trip-beige.vercel.app)
+- **Backend (Render)**: [https://namma-trip.onrender.com](https://namma-trip.onrender.com)
+- **GitHub Repository**: [https://github.com/drushya-mr/namma-trip](https://github.com/drushya-mr/namma-trip)
+
+---
+
+## 📊 Hackathon Presentation
+A comprehensive 14-slide presentation prepared for the **Kannada Digital Innovation Hackathon 2026** is available in the repository:
+- **PowerPoint (.pptx)**: [`docs/hackathon/Namma_Trip_Hackathon_Presentation.pptx`](docs/hackathon/Namma_Trip_Hackathon_Presentation.pptx)
+- **Companion PDF (.pdf)**: [`docs/hackathon/Namma_Trip_Hackathon_Presentation.pdf`](docs/hackathon/Namma_Trip_Hackathon_Presentation.pdf)
