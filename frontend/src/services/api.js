@@ -1,4 +1,8 @@
-const API_BASE = import.meta.env.VITE_API_BASE || '/api';
+const rawBase = import.meta.env.VITE_API_BASE || import.meta.env.VITE_API_BASE_URL || import.meta.env.VITE_API_URL || '/api';
+const cleanBase = rawBase.replace(/\/+$/, '');
+const API_BASE = (cleanBase.startsWith('http://') || cleanBase.startsWith('https://')) && !cleanBase.endsWith('/api')
+  ? `${cleanBase}/api`
+  : cleanBase;
 
 async function fetchJson(url, options = {}) {
   const headers = {

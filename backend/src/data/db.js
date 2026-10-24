@@ -53,13 +53,15 @@ const CITY_TO_CLUSTER = {
 
 // Load places seed data
 const findDatabaseFile = (filename) => {
+  const localCandidate = path.join(__dirname, 'database', filename);
+  if (fs.existsSync(localCandidate)) return localCandidate;
   const candidate1 = path.join(__dirname, '..', '..', '..', 'database', filename);
   const candidate2 = path.join(__dirname, '..', '..', 'database', filename);
   const candidate3 = path.join(process.cwd(), 'database', filename);
   if (fs.existsSync(candidate1)) return candidate1;
   if (fs.existsSync(candidate2)) return candidate2;
   if (fs.existsSync(candidate3)) return candidate3;
-  return candidate1;
+  return localCandidate;
 };
 
 const placesCombinedFile = findDatabaseFile('places_combined.json');
