@@ -180,3 +180,14 @@ Open **`http://localhost:5173`** in your browser. The app will open in Kannada w
 A comprehensive 14-slide presentation prepared for the **Kannada Digital Innovation Hackathon 2026** is available in the repository:
 - **PowerPoint (.pptx)**: [`docs/hackathon/Namma_Trip_Hackathon_Presentation.pptx`](docs/hackathon/Namma_Trip_Hackathon_Presentation.pptx)
 - **Companion PDF (.pdf)**: [`docs/hackathon/Namma_Trip_Hackathon_Presentation.pdf`](docs/hackathon/Namma_Trip_Hackathon_Presentation.pdf)
+
+
+## 🎥 Live Application Demo & Video Explanation
+
+Watch the video walkthrough of Namma Trip:
+
+[▶ Watch the Namma Trip Application Explanation](https://drive.google.com/file/d/1lw6HfyhsaQEEmbiUieKz8aD1VhIWsIt9/view?usp=sharing)
+
+🌐 **Live Application:** [Open Namma Trip](https://namma-trip-beige.vercel.app)
+
+📂 **Source Code:** [GitHub Repository](https://github.com/drushya-mr/namma-trip)
