@@ -185,8 +185,7 @@ A comprehensive 14-slide presentation prepared for the **Kannada Digital Innovat
 ## 🎥 Live Application Demo & Video Explanation
 
 Watch the video walkthrough of Namma Trip:
-
-[▶ Watch the Namma Trip Application Explanation](https://drive.google.com/file/d/1lw6HfyhsaQEEmbiUieKz8aD1VhIWsIt9/view?usp=sharing)
+(https://drive.google.com/file/d/1eC0pMj3ZT4MZwDBw2XTfRNDszAK2K6E6/view?usp=sharing)
 
 🌐 **Live Application:** [Open Namma Trip](https://namma-trip-beige.vercel.app)
 
